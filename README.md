@@ -1,8 +1,12 @@
 # Medium-Fidelity Wireframe (Mobile App) 📱
 
-## 📝 Project Description
+📝 Project Description
 This is the **Medium-Fidelity wireframe** file for a mobile application (**iOS/iPhone**), developed in **Figma**.  
 This wireframe presents the screen structure, main layout, and content hierarchy, focusing on **usability and user flow** before the application of detailed visual styles (colors, detailed typography, final images, etc.).
+
+
+![Figma](https://github.com/eumatoliveira/Medium-Fidelity-Wireframe/blob/main/Screenshot_21.png)
+
 
 The main goal of this screen is to **present key content** and **direct the user to a Primary Call to Action**.
 
